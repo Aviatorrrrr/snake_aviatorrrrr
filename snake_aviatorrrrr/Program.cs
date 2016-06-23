@@ -10,6 +10,9 @@ namespace snake_aviatorrrrr
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
+
         }
     }
 }

@@ -1,1 +1,6 @@
 G:\Cloud\Aviacoder\snake_aviatorrrrr\snake_aviatorrrrr\bin\Debug\snake_aviatorrrrr.exe.config
+G:\Cloud\Aviacoder\snake_aviatorrrrr\snake_aviatorrrrr\bin\Debug\snake_aviatorrrrr.exe
+G:\Cloud\Aviacoder\snake_aviatorrrrr\snake_aviatorrrrr\bin\Debug\snake_aviatorrrrr.pdb
+G:\Cloud\Aviacoder\snake_aviatorrrrr\snake_aviatorrrrr\obj\Debug\snake_aviatorrrrr.csprojResolveAssemblyReference.cache
+G:\Cloud\Aviacoder\snake_aviatorrrrr\snake_aviatorrrrr\obj\Debug\snake_aviatorrrrr.exe
+G:\Cloud\Aviacoder\snake_aviatorrrrr\snake_aviatorrrrr\obj\Debug\snake_aviatorrrrr.pdb
